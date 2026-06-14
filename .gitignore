@@ -2,3 +2,5 @@
 *.FCBak
 *.gcode
 git-push
+*.3mf
+
